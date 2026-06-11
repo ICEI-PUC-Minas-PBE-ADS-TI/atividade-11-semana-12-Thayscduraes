@@ -13,8 +13,8 @@ Também foi implementada uma pesquisa por nome de filme utilizando o endpoint de
 
 ## Informações Gerais
 
-- Nome:
-- Matrícula:
+- Nome:Thays Caruline Durães de Assis
+- Matrícula:927818
 
 ## Prints do trabalho
 
